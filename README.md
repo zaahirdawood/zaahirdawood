@@ -4,9 +4,7 @@
 
 ### Hi there 👋
 
-Data scientist with over 3 years of experience applying machine learning, natural language processing, and advanced analytics in Adtech, Edtech, and logistics. Possesses transferable domain knowledge from optimizing logistics businesses and operations, recently working in SaaS product-led companies.
-
-I have worked in roles previously known as "Data Analyst" before the job title split into various positions such as "Data Scientist", "Decision Scientist" and "Product Data Scientist". My job title wish-list is to become an ML OPS Engineer. I possess moderate data engineering skills and have a keen interest in reinforcement.
+Data scientist with over 3 years of experience applying machine learning, natural language processing, and advanced analytics in Adtech, Edtech, and logistics. Possesses transferable domain knowledge from optimizing logistics businesses and operations, working in SaaS product-led companies. Working my way into ML Engineer and have a keen interest in reinforcement.
 
 - 🔭 I’m currently working at an Edtech Company 
 - 🌱 I’m currently learning Advanced Statistics, LLM's & Reinforcement Learning 
