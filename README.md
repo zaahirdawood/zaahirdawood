@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Data scientist with over 3 years of experience applying machine learning, natural language processing, and advanced analytics in Adtech, Edtech, and logistics. Possesses transferable domain knowledge from optimizing logistics businesses and operations, working in SaaS product-led companies. Working my way into ML Engineer and have a keen interest in reinforcement.
+Data scientist with over 3+ of experience applying machine learning, natural language processing, and advanced analytics in Adtech, Edtech, and logistics. Possesses transferable domain knowledge from optimizing logistics businesses and operations, working in SaaS product-led companies. Working my way into ML Engineer and have a keen interest in reinforcement.
 
 - 🔭 I’m currently working at an Edtech Company 
 - 🌱 I’m currently learning Advanced Statistics, LLM's & Reinforcement Learning 
